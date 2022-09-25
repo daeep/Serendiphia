@@ -1,0 +1,19 @@
+[build]
+  publish = "public"
+  command = "hugo --gc --minify"
+
+[context.production.environment]
+  HUGO_BASEURL = "https:/www.serendephia.net/"
+
+[context.deploy-preview]
+  command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Cache-Control = "public, max-age=600"
+
+[[headers]]
+  for = "*.(css|js|woff|woff2|ttf|png|jpg|jpeg)"
+  [headers.values]
+    Cache-Control = "public, max-age=2592000"
