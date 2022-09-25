@@ -1,6 +1,6 @@
 baseURL = "http://www.serendeiphia.net"
 title = "Serendephia"
-theme = "puppet"
+#theme = "puppet"
 #themesDir = "../.."
 
 copyright = ""
