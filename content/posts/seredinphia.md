@@ -1,14 +1,14 @@
 +++
 author = "Edith Gonzalez"
-title = "What is Serendephia?"
+title = "What is seredinphia?"
 date = "2022-09-22"
-description = "What is Seredenphia?"
+description = "What is seredinphia?"
 tags = [
-    "Serendephia",
+    "Serendiphia",
     "Edith",
     "Project"
 ]
-subtitle = "What is Seredenphia?"
+subtitle = "What is seredinphia?"
 header_img = "/img/Black.png"
 +++
 
@@ -23,3 +23,9 @@ The point is that it arrived without warning but it was so fascinating that you 
 In fact, many of the great discoveries that have been discovered throughout history have been the result of this striking and peculiar phenomenon, especially in the field of science.
 
 Have you ever experienced this?.
+
+
+
+
+
+51 https://i.pinimg.com/originals/14/2d/1f/142d1f24217196a02d6ac38c59f6e7a8.jpg ideas: House interior, Jonas Wood, house design. Pinterest. (2019, August 5). Retrieved October 9, 2022, from https://www.pinterest.com/jeanw2350/httpsipinimgcomoriginals142d1f142d1f24217196a02d6a/
