@@ -28,7 +28,7 @@ According to the official site of Pinterest, (n.d., 2022) the name is made up of
 
 The following video of 2: 34 explains the steps described to interact in the app which are also mentioned below:
 
-{{< video label="Video" mp4="/video/video1.mp4" >}}
+{{< video src="/video/video1.mp4" type="video/mp4" preload="auto" >}}
 
 ## How to create a Pinterest account?
 - If you want to create a Pinterest account solely for inspiration…

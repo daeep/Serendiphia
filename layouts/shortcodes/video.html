@@ -1,5 +1,5 @@
-<video autoplay loop muted playsinline aria-label='{{ .Get "label"}}' style="width: auto; height: auto;">
-    {{ with .Get "mp4" }}<source src="{{ . }}" type="video/mp4">{{ end }}
-    {{ with .Get "webm" }}<source src="{{ . }}" type="video/webm">{{ end }}
-    <p> Your browser does not support video. </p>
+<video class="video-shortcode" preload="{{ .Get "preload" }}" controls>
+    <source src="{{ .Get "src" }}" type="{{ .Get "type" }}">
+    There should have been a video here but your browser does not seem
+    to support it.
 </video>
